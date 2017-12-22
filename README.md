@@ -4,7 +4,7 @@ Spring Boot, Kotlin, Gradleを利用してパスの確認。<br />
 <br />
 実行すると下記のパスが作成されます。<br />
 <br />
-http://localhost:8135/ <br />
+http://localhost:8135 <br />
 ![image](https://user-images.githubusercontent.com/5728999/34292040-81010e2a-e742-11e7-8b81-fcdb094099cc.png)
 
 
