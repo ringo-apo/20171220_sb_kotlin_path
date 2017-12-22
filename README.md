@@ -1,12 +1,12 @@
 # 20171220_sb_kotlin_path
-<br />
-Spring Boot, Kotlin, Gradleを利用してパスの確認。<br />
-<br />
-実行すると下記のパスが作成されます。<br />
-<br />
-http://localhost:8135<br />  
-![image](https://user-images.githubusercontent.com/5728999/34292040-81010e2a-e742-11e7-8b81-fcdb094099cc.png)<br />
-<br />
+  
+Spring Boot, Kotlin, Gradleを利用してパスの確認。  
+  
+実行すると下記のパスが作成されます。  
+  
+http://localhost:8135    
+![image](https://user-images.githubusercontent.com/5728999/34292040-81010e2a-e742-11e7-8b81-fcdb094099cc.png)  
+  
 http://localhost:8135/page1  <br />
 ![image](https://user-images.githubusercontent.com/5728999/34292060-987e680e-e742-11e7-94d5-1473a4a8c3ed.png)
 
